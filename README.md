@@ -40,17 +40,6 @@ and intelligent applications.</b>
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=guhya-16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhya-16&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
-</p>
-
-<br>
-
----
-
 ## 🤝 Connect With Me
 
 <p align="center">
