@@ -1,4 +1,4 @@
-<h1 align="center">👋 Guhya Aduru</h1>
+<h1 align="center"> Guhya Aduru</h1>
 
 <p align="center">
   <b>Computer Science Engineering Student</b>
@@ -24,7 +24,6 @@ I enjoy solving problems through <b>backend development,
 and intelligent applications.</b>
 </p>
 
-<br>
 
 ---
 
@@ -36,7 +35,6 @@ and intelligent applications.</b>
 
 </p>
 
-<br>
 
 ---
 
@@ -54,7 +52,6 @@ and intelligent applications.</b>
 
 </p>
 
-<br>
 
 <p align="center">
   <i>Build • Learn • Debug • Repeat</i>
