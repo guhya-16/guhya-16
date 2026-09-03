@@ -6,7 +6,6 @@
   Software Developer • AI Enthusiast
 </p>
 
-<br>
 
 ---
 
