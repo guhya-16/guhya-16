@@ -1,13 +1,9 @@
-<h1 align="center"> Guhya Aduru</h1>
+<h1 align="center">Guhya Aduru</h1>
 
 <p align="center">
   <b>Computer Science Engineering Student</b>
   <br>
   Software Developer • AI Enthusiast
-</p>
-
-<p align="center">
-  <code>Java</code> • <code>Python</code> • <code>SQL</code> • <code>Machine Learning</code>
 </p>
 
 <br>
