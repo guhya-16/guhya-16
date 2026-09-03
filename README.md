@@ -10,6 +10,8 @@
   <code>Java</code> • <code>Python</code> • <code>SQL</code> • <code>Machine Learning</code>
 </p>
 
+<br>
+
 ---
 
 ## 👨‍💻 About Me
@@ -19,8 +21,10 @@ I'm a Computer Science Engineering student passionate about building practical s
 working and exploring AI & machine learning.
 <br><br>
 I enjoy solving problems through <b>backend development,
-  and intelligent applications.</b>
+and intelligent applications.</b>
 </p>
+
+<br>
 
 ---
 
@@ -30,6 +34,9 @@ I enjoy solving problems through <b>backend development,
 
 <img src="https://skillicons.dev/icons?i=java,python,sql,fastapi,postgres,docker,git,github,pytorch,tensorflow" />
 
+</p>
+
+<br>
 
 ---
 
@@ -39,6 +46,8 @@ I enjoy solving problems through <b>backend development,
   <img src="https://github-readme-stats.vercel.app/api?username=guhya-16&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guhya-16&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
+
+<br>
 
 ---
 
@@ -55,6 +64,8 @@ I enjoy solving problems through <b>backend development,
 </a>
 
 </p>
+
+<br>
 
 <p align="center">
   <i>Build • Learn • Debug • Repeat</i>
